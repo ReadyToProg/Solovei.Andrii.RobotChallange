@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Solovei.Andrii.RobotChallange\Solovei.Andrii.RobotChallange\bin\Debug\Solovei.Andrii.RobotChallange.dll
+c:\users\user\documents\visual studio 2017\Projects\Solovei.Andrii.RobotChallange\Solovei.Andrii.RobotChallange\bin\Debug\Solovei.Andrii.RobotChallange.pdb
+c:\users\user\documents\visual studio 2017\Projects\Solovei.Andrii.RobotChallange\Solovei.Andrii.RobotChallange\bin\Debug\Robot.Common.dll
+c:\users\user\documents\visual studio 2017\Projects\Solovei.Andrii.RobotChallange\Solovei.Andrii.RobotChallange\obj\Debug\Solovei.Andrii.RobotChallange.dll
+c:\users\user\documents\visual studio 2017\Projects\Solovei.Andrii.RobotChallange\Solovei.Andrii.RobotChallange\obj\Debug\Solovei.Andrii.RobotChallange.pdb
